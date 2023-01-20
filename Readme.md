@@ -1,6 +1,6 @@
 # Test icarus verilog
-It is example for testing icarus verilog 
-All this file you can get after compilation and start simulation
+It is example for testing icarus verilog. 
+All this file you can get after compilation and start simulation.
 
 On start you have only mux5in1.v and mux5in1_tb.v
 
@@ -12,5 +12,8 @@ And next:
 
 	vvp mux5in1
 
-
+And for start simulation print:
+	
+	gtkwave mux5in1.vcd
+	
 // It is manual in process
