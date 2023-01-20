@@ -12,8 +12,9 @@ And next:
 
 	vvp mux5in1
 
-And for start simulation type command:
+And  type command:
 	
 	gtkwave mux5in1.vcd
 	
+for start simulation.	
 // It is manual in process
