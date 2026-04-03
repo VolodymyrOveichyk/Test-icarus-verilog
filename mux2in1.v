@@ -1,4 +1,4 @@
-module mux5in1( data_a, data_b,  i_cntr, i_clk, i_reset, o_data);
+module mux2in1( data_a, data_b,  i_cntr, i_clk, i_reset, o_data);
 
 input [7 : 0] data_a, data_b;
 input  i_clk, i_reset;
@@ -18,4 +18,4 @@ end else begin
 end
 
 
-endmodule 
+endmodule
